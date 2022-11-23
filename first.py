@@ -12,6 +12,4 @@ print(id(b))
 
 a,b,c = 10,"Python",2.5
 
-print(a)
-print(b)
-print(c)
+print(a,b,c)
